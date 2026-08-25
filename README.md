@@ -130,9 +130,7 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Djonetti)
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)]([https://www.hackthebox.com/](https://profile.hackthebox.com/profile/01a03b0d-d213-705d-97f0-107d1628dadb?utm_medium=copy_url))
-
-
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)]([https://app.hackthebox.com/profile/TU_ID_O_USERNAME](https://profile.hackthebox.com/profile/01a03b0d-d213-705d-97f0-107d1628dadb?utm_medium=copy_url))
 ---
 
 **🇪🇸 Barcelona → 🇦🇺 Australia**
