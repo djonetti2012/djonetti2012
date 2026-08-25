@@ -138,6 +138,6 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 ---
 
 **🇪🇸 Barcelona → 🇦🇺 Australia**
-
+🇪🇸 **Spain** | 🇦🇺 **Australia**
 *Still at the beginning. Not planning to stay there.*
 
