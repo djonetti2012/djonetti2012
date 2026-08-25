@@ -25,21 +25,30 @@ My main goal is to become a **penetration tester**.
 ## 🛠️ Technologies & Tools
 
 ### Cybersecurity
-
-`Penetration Testing` · `Hack The Box` · `TryHackMe` · `Kali Linux` · `Nmap` · `Metasploit`
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-02B4E8?style=for-the-badge&logo=parrot-security&logoColor=white)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-222937?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-00599E?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
 
 ### Programming
-
-`Python` · `C#` · `JavaScript` · `HTML` · `CSS`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ### Databases & Web
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-`MySQL` · `SQL` · `Flask`
-
-### Other
-
-`Git` · `GitHub` · `Unity` · `Godot` · `Arduino` · `Raspberry Pi`
-
+### Hardware & Dev Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-101010?style=for-the-badge&logo=unity&logoColor=white)
 ---
 
 ## 🔎 Current Focus
