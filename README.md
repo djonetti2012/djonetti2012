@@ -138,7 +138,9 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 ---
 
 **🇪🇸 Barcelona → 🇦🇺 Australia**
-![Spain](https://img.shields.io/badge/Spain-🇪🇸-FFC400?style=for-the-badge)
-![Australia](https://img.shields.io/badge/Australia-🇦🇺-00008B?style=for-the-badge)
+
 *Still at the beginning. Not planning to stay there.*
+
+
+[![Barcelona to Australia](https://img.shields.io/badge/Barcelona_🇪🇸_→_Australia_🇦🇺-000000?style=for-the-badge&color=222222)](mailto:contact.djonetti@proton.me)
 
