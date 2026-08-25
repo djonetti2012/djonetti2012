@@ -30,7 +30,7 @@ My main goal is to become a **penetration tester**.
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-222937?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-00599E?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-167DA4?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004088?style=for-the-badge&logo=target&logoColor=white)
 
 ### Programming
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,7 +59,6 @@ Python               ███████████████░░░░�
 Web Security         ██████████████░░░░░░  High focus
 Networking           █████████████░░░░░░░  High focus
 Linux                ████████████░░░░░░░░  Regular focus
-Programming          ███████████░░░░░░░░░  Regular focus
 ```
 
 Most of my current learning is focused on **penetration testing**, while Python, web security, networking and Linux are areas I'm developing alongside it.
@@ -84,13 +83,13 @@ I'm mainly learning through **Hack The Box, TryHackMe, labs and personal project
 ---
 
 ### 🔒 Other Projects
-I've developed several programming, cybersecurity, and hardware/IoT projects (Arduino/Raspberry Pi). Most are currently private while I refine the code and documentation. 
+I've developed several programming, cybersecurity, and hardware/IoT projects (Arduino/Raspberry Pi). Most are currently private or unfinished. 
 * *More public repositories coming soon as they reach release quality.*
 ---
 
 ## 🧠 My Approach
 
-> **I believe the best way to learn is to force yourself to work for what you want, even when you don't feel like it. Keep pushing, find another way when something doesn't work, and keep going until you get there.**
+> **I believe the best way to learn is to force yourself to work for what you want, even when you don't feel like it. Keep pushing, find another way when something doesn't work, and don't stop until you get there.**
 
 I'm not expecting everything to be easy.
 
@@ -139,5 +138,5 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 
 <img src="https://flagcdn.com/w40/es.png" width="25" /> Barcelona **→** <img src="https://flagcdn.com/w40/au.png" width="25" /> Melbourne
 
-*Still at the beginning. Not planning to stay there.*
+*Started here. Not stopping here.*
 
