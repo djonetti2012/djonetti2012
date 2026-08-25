@@ -141,6 +141,4 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 
 *Still at the beginning. Not planning to stay there.*
 
-
-[![Barcelona to Australia](https://img.shields.io/badge/Barcelona_🇪🇸_→_Australia_🇦🇺-000000?style=for-the-badge&color=222222)](mailto:contact.djonetti@proton.me)
-
+<img src="https://hatscripts.github.io/circle-flags/flags/es.svg" width="22" /> Barcelona → <img src="https://hatscripts.github.io/circle-flags/flags/au.svg" width="22" /> Australia
