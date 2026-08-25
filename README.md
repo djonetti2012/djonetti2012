@@ -128,6 +128,8 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 
 ## 📫 Contact & Links
 
+[![Proton Mail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:contact.djonetti@proton.me)
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Djonetti)
 
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hack-the-box&logoColor=black)](https://profile.hackthebox.com/profile/01a03b0d-d213-705d-97f0-107d1628dadb?utm_medium=copy_url)
