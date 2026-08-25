@@ -137,7 +137,7 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/940332953999900752)
 ---
 
-<img src="https://flagcdn.com/w40/es.png" width="25" /> Barcelona → <img src="https://flagcdn.com/w40/au.png" width="25" /> Melbourne
+<img src="https://flagcdn.com/w40/es.png" width="25" /> Barcelona **→** <img src="https://flagcdn.com/w40/au.png" width="25" /> Melbourne
 
 *Still at the beginning. Not planning to stay there.*
 
