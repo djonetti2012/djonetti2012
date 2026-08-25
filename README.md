@@ -61,27 +61,22 @@ I'm mainly learning through **Hack The Box, TryHackMe, labs and personal project
 
 ## 🚧 Projects
 
-### 💰 Expense Tracker
+### 💰 Expense Tracker | Local Financial Management App
+> A hands-on project built to learn database design, backend integration, and web development beyond simple tutorials.
 
-A project I'm currently developing to learn **MySQL, databases and Flask**.
+**Tech Stack:** `Python` `Flask` `MySQL` `HTML/CSS`
 
-The goal is to build a local expense tracker where I can:
+**Key Features:**
+* 💳 **Transaction Management:** Add expenses with amount, category, and date parameters.
+* 🔍 **Filtering & Search:** View and filter expense records by specific month or category.
+* 📊 **Analytics & Insights:** Calculate total monthly spending and generate basic spending habits statistics.
+* 🌐 **Web Interface:** Local web application powered by Flask for an easy-to-use GUI.
 
-* Add expenses with amount, category and date
-* View all expenses
-* Filter expenses by month or category
-* See total monthly spending
-* View simple statistics, such as what I spend the most money on
-* Turn the project into a local web application using **Flask**
-
-The project started mainly because I wanted to learn **MySQL**, and building something around it seemed like a better way to learn than just following tutorials.
+---
 
 ### 🔒 Other Projects
-
-I have worked on other programming, cybersecurity and hardware projects, but most of them are currently **private or unfinished**.
-
-I'll publish more as I turn them into projects I'm comfortable sharing.
-
+I've developed several programming, cybersecurity, and hardware/IoT projects (Arduino/Raspberry Pi). Most are currently private while I refine the code and documentation. 
+* *More public repositories coming soon as they reach release quality.*
 ---
 
 ## 🧠 My Approach
@@ -124,11 +119,10 @@ Maybe one day I'll be reading this README from Australia. 🇦🇺
 
 ## 📫 Contact & Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/)
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge\&logo=tryhackme\&logoColor=white)](https://tryhackme.com/p/Djonetti)
 
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge\&logo=hackthebox\&logoColor=9FEF00)](https://www.hackthebox.com/)
+
 
 ---
 
