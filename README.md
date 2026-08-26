@@ -1,10 +1,10 @@
 # Hey, I'm Manel 👋
 
-**Developer · Cybersecurity · Barcelona, Spain 🇪🇸**
+**Aspiring Developer · Pentester · Cybersecurity · Barcelona, Spain 🇪🇸**
 
 I'm interested in **cybersecurity, penetration testing, programming and technology**.
 
-I'm currently learning through hands-on practice, **Hack The Box, TryHackMe, personal projects and experimentation**.
+I'm currently learning through **hands-on practice, Hack The Box, TryHackMe, personal projects, and experimentation.**
 
 My main goal is to become a **penetration tester**.
 
@@ -75,9 +75,9 @@ I'm mainly learning through **Hack The Box, TryHackMe, labs and personal project
 **Tech Stack:** `Python` `Flask` `MySQL` `HTML/CSS`
 
 **Key Features:**
-* 💳 **Transaction Management:** Add expenses with amount, category, and date parameters.
+* 💳 **Transaction Management:** Add expenses with an amount, category, and date.
 * 🔍 **Filtering & Search:** View and filter expense records by specific month or category.
-* 📊 **Analytics & Insights:** Calculate total monthly spending and generate basic spending habits statistics.
+* 📊 **Analytics & Insights:** Calculate total monthly spending and generate basic spending habit statistics.
 * 🌐 **Web Interface:** Local web application powered by Flask for an easy-to-use GUI.
 
 ---
