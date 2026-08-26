@@ -69,7 +69,7 @@ I'm mainly learning through **Hack The Box, TryHackMe, labs and personal project
 
 ## 🚧 Projects
 
-### 💰 Expense Tracker | Local Financial Management App
+### 💰 Expense Tracker | Local Financial Management App | **In Progress**
 > A hands-on project built to learn database design, backend integration, and web development beyond simple tutorials.
 
 **Tech Stack:** `Python` `Flask` `MySQL` `HTML/CSS`
