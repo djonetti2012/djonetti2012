@@ -91,7 +91,7 @@ I've developed several programming, cybersecurity, and hardware/IoT projects (Ar
 
 > **I believe the best way to learn is to force yourself to work for what you want, even when you don't feel like it. Keep pushing, find another way when something doesn't work, and don't stop until you get there.**
 
-I'm not expecting everything to be easy.
+I'm not expecting everything to be easy. If it were, everyone would have it.
 
 If I don't know something, I'll learn it.
 
