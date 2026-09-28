@@ -1,18 +1,18 @@
 # Hey, I'm Manel 👋
 
-**Aspiring Developer · Pentester · Cybersecurity · Barcelona, Spain 🇪🇸**
+**Aspiring Developer · Red Team Operator · Cybersecurity · Barcelona, Spain 🇪🇸**
 
-I'm interested in **cybersecurity, penetration testing, programming and technology**.
+I'm interested in **cybersecurity, Red Team Operations, programming and technology**.
 
 I'm currently learning through **hands-on practice, Hack The Box, TryHackMe, personal projects, and experimentation.**
 
-My main goal is to become a **penetration tester**.
+My main goal is to become a **Red Team Operator**.
 
 ---
 
 ## 🎯 Goals
 
-* 🥷 Become a **professional penetration tester**
+* 🥷 Become a **professional Red Team Operator**
 * 🐍 Improve my Python skills
 * 🔐 Learn more about cybersecurity through practical work
 * 🌐 Improve my understanding of web security and networking
@@ -54,14 +54,14 @@ My main goal is to become a **penetration tester**.
 ## 🔎 Current Focus
 
 ```text
-Penetration Testing  ████████████████████  Main focus
-Python               ███████████████░░░░░  High focus
-Web Security         ██████████████░░░░░░  High focus
-Networking           █████████████░░░░░░░  High focus
-Linux                ████████████░░░░░░░░  Regular focus
+Red Teaming/pentesting  ████████████████████  Main focus
+Python                  ███████████████░░░░░  High focus
+Web Security            ██████████████░░░░░░  High focus
+Networking              █████████████░░░░░░░  High focus
+Linux                   ████████████░░░░░░░░  Regular focus
 ```
 
-Most of my current learning is focused on **penetration testing**, while Python, web security, networking and Linux are areas I'm developing alongside it.
+Most of my current learning is focused on **Red Teaming/**, while Python, web security, networking and Linux are areas I'm developing alongside it.
 
 I'm mainly learning through **Hack The Box, TryHackMe, labs and personal projects**.
 
@@ -105,7 +105,7 @@ I have a pretty clear idea of where I want to take my life.
 
 I'm starting in **Barcelona 🇪🇸**, learning programming and cybersecurity and slowly building the skills I want to use in the future.
 
-One of my biggest goals is to work in **cybersecurity**, with penetration testing being the direction I'm most interested in.
+One of my biggest goals is to work in **cybersecurity**, with red teaming being the direction I'm most interested in.
 
 And then there's **Australia 🇦🇺**.
 
